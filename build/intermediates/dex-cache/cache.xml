@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/citruscircuits/pit-scouter-2015-android/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="/Users/citruscircuits/pit-scouter-2015-android/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-562bfd63dbded706b3daeb794f4cc40116ceff76.jar" />
+    </item>
+    <item
+        jar="/Users/citruscircuits/pit-scouter-2015-android/app/libs/dropbox-sync-sdk-android.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="45fb26781bc311772660c697996801f8f39d3ce0">
+        <dex dex="/Users/citruscircuits/pit-scouter-2015-android/app/build/intermediates/pre-dexed/debug/dropbox-sync-sdk-android-df5a545222ba31d6d9bd331b1828e6d3e91194b3.jar" />
+    </item>
+    <item
+        jar="/Users/citruscircuits/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="/Users/citruscircuits/pit-scouter-2015-android/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-551d2bd1886b91a56ebe8153bfe134932033b0e5.jar" />
+    </item>
+    <item
+        jar="/Users/citruscircuits/pit-scouter-2015-android/app/libs/realm-0.78.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="824ae0b2c1c2c69dae64e7725df53b2e5709db22">
+        <dex dex="/Users/citruscircuits/pit-scouter-2015-android/app/build/intermediates/pre-dexed/debug/realm-0.78.0-5fb15754c22a33df4fbf09c9b222d5e3c977c12e.jar" />
+    </item>
+    <item
+        jar="/Users/citruscircuits/pit-scouter-2015-android/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="/Users/citruscircuits/pit-scouter-2015-android/app/build/intermediates/pre-dexed/debug/classes-ea840c93c29d23a0d8d6522f8e54269502884c09.jar" />
+    </item>
+
+</items>

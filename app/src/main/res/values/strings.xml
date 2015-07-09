@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pit Scouter 2015</string>
+    <string name="search_hint">Search Teams</string>
+    <string name="action_settings">Settings</string>
+    <string name="teamsButtonLabel">Teams</string>
+    <string name="drivetrainButton">Drivetrain</string>
+    <string name="motorsButton"># Motors</string>
+    <string name="addPhotoButton">Add Photo</string>
+    <string name="pitButton">Pit</string>
+    <string name="numWheelsButton"># Wheels</string>
+    <string name="typeWheelsButton">Type Wheels</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="title_activity_photos_view">PhotosViewActivity</string>
+    <string name="makeTeamImageButton">Set as Team Image</string>
+    <string name="refreshButton">Refresh</string>
+    <string name="programmingLanguageButton">Language</string>
+    <string name="numProgrammersButton">Programmers</string>
+    <string name="weightEditText">Weight</string>
+    <string name="allowanceEditText">Allowance</string>
+    <string name="pitNotes">Notes</string>
+    <string name="hasUpdatedSoftware">Updated</string>
+    <string name="notHasUpdatedSoftware">Not Updated</string>
+    <string name="title_activity_notes">Pit Notes</string>
+
+
+
+
+</resources>
